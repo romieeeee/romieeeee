@@ -14,7 +14,7 @@ Kotlin과 Jetpack Compose를 중심으로 사용자와 가까운 모바일 서�
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_↗-1F4D3A?style=flat-square)]([https://drive.google.com/file/d/1ZlnGdQdWwNuPcfUxZEeTtdCyJaL1j14o/view?usp=drive_link](https://drive.google.com/file/d/1CGcpJ9-ucgEoIaW_r-l3On0ynRF-Atkj/view?usp=sharing))
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_↗-1F4D3A?style=flat-square)](https://drive.google.com/file/d/1CGcpJ9-ucgEoIaW_r-l3On0ynRF-Atkj/view?usp=sharing)
 [![Tech Blog](https://img.shields.io/badge/Tech_Blog-Visit_↗-3F4743?style=flat-square)](https://progromi.tistory.com)
 
 </div>
