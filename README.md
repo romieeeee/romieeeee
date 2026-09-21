@@ -26,7 +26,7 @@ Kotlin과 Jetpack Compose를 중심으로 사용자와 가까운 모바일 서�
 ### 🚓 PoliceAndThief
 **GPS 기반 실시간 술래잡기 Android 앱**
 
-Socket.IO와 GPS를 기반으로 실시간 위치와 게임 상태를 동기화했습니다.
+Socket.IO 재연결 시 누락 메시지를 복구하고, 실시간 게임 상태를 StateFlow로 관리했습니다.
 
 `Kotlin` `Compose` `Socket.IO` `Google Maps`
 
@@ -39,7 +39,7 @@ Socket.IO와 GPS를 기반으로 실시간 위치와 게임 상태를 동기화�
 
 MVVM + Clean Architecture를 기반으로 데이터와 계산 책임을 분리했습니다.
 
-`Clean Architecture` `MVVM` `Cache`
+`Clean Architecture` `Coroutines` `Room`
 
 [Repository ↗](https://github.com/romieeeee/What-s-Your-ETF)
 
@@ -48,9 +48,9 @@ MVVM + Clean Architecture를 기반으로 데이터와 계산 책임을 분리�
 ### 🐣 DoitDo
 **TODO + 다마고치 모바일 서비스**
 
-실제 서비스를 출시하고 사용자 피드백을 반영하며 운영했습니다.
+실제 서비스를 스토어에 출시하고 사용자 피드백을 반영하며 운영했습니다.
 
-`Release` `Operation` `User Feedback`
+`Release` `Flutter` `User Feedback`
 
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.d107.doitdo)
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/doitdo/id6764005076)
@@ -93,6 +93,7 @@ Android와 Kotlin을 중심으로 모바일 개발 및 팀 프로젝트 수행
 
 ![MVVM](https://img.shields.io/badge/MVVM-3F4743?style=flat-square)
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-3F4743?style=flat-square)
+![Coroutines](https://img.shields.io/badge/Coroutines-3F4743?style=flat-square)
 ![Hilt](https://img.shields.io/badge/Hilt-3F4743?style=flat-square)
 ![StateFlow](https://img.shields.io/badge/StateFlow-3F4743?style=flat-square)
 
